@@ -15,7 +15,3 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xrz-cloud" />
 </div>
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=xrz-cloud&theme=minimal" />
-</div>
