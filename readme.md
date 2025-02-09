@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Akimio521/AutoFilm>Akimio521/AutoFilm</a><span> 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目，推荐配合MediaWarp使用</span></li><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful docs framework with Next.js.</span></li><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li></ul>
+<ul><li><a href=https://github.com/linwoodpendleton/nginx_proxy_conf>linwoodpendleton/nginx_proxy_conf</a><span> nginx任意反向代理配置(支持github,ip138,google)</span></li><li><a href=https://github.com/nolebase/nolebase>nolebase/nolebase</a><span> A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock</span></li><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><span> ( ｀д′) how many followers do i have? how many!</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/8/25, 9:14 AM<br>下一次刷新：2/9/25, 9:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/9/25, 9:20 AM<br>下一次刷新：2/10/25, 9:20 AM</p>
