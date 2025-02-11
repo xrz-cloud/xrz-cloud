@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><span> ( ｀д′) how many followers do i have? how many!</span></li><li><a href=https://github.com/ModuleList/akashaProxy>ModuleList/akashaProxy</a><span> better transparent proxy module (based clash)</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</span></li><li><a href=https://github.com/bili-vd-bak/L1>bili-vd-bak/L1</a><span> A tool to parse the title of bangumi etc. Its name and function logic originate from L1(LabelFirstTitleParser) of open-ani/ani.</span></li><li><a href=https://github.com/brenoepics/vitepress-carbon>brenoepics/vitepress-carbon</a><span> Streamlined Theme for VitePress</span></li></ul>
+<ul><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li><li><a href=https://github.com/linwoodpendleton/nginx_proxy_conf>linwoodpendleton/nginx_proxy_conf</a><span> nginx任意反向代理配置(支持github,ip138,google)</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li><li><a href=https://github.com/ModuleList/akashaProxy>ModuleList/akashaProxy</a><span> better transparent proxy module (based clash)</span></li><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><span> ( ｀д′) how many followers do i have? how many!</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/10/25, 9:17 AM<br>下一次刷新：2/11/25, 9:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/11/25, 9:16 AM<br>下一次刷新：2/12/25, 9:16 AM</p>
