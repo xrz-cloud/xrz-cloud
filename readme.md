@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><span> ( ｀д′) how many followers do i have? how many!</span></li><li><a href=https://github.com/ModuleList/akashaProxy>ModuleList/akashaProxy</a><span> better transparent proxy module (based clash)</span></li><li><a href=https://github.com/wangfenjin/simple>wangfenjin/simple</a><span> 支持中文和拼音的 SQLite fts5 全文搜索扩展 ｜ A SQLite3 fts5 tokenizer which supports Chinese and PinYin</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful docs framework with Next.js.</span></li><li><a href=https://github.com/nolebase/nolebase>nolebase/nolebase</a><span> A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方</span></li></ul>
+<ul><li><a href=https://github.com/LeafYeeXYZ/MailBox>LeafYeeXYZ/MailBox</a><span> Serverless, free and custom domain email server using Cloudflare Mail Workers for receiving and Resend for sending / 零成本、无服务器、自定义域名邮件收发服务, 基于 Cloudflare Mail Workers (收) 和 Resend (发)</span></li><li><a href=https://github.com/ModuleList/akashaProxy>ModuleList/akashaProxy</a><span> better transparent proxy module (based clash)</span></li><li><a href=https://github.com/bili-vd-bak/L1>bili-vd-bak/L1</a><span> A tool to parse the title of bangumi etc. Its name and function logic originate from L1(LabelFirstTitleParser) of open-ani/ani.</span></li><li><a href=https://github.com/bpking1/embyExternalUrl>bpking1/embyExternalUrl</a><span> some emby/jellyfin scripts</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/20/25, 9:17 AM<br>下一次刷新：2/21/25, 9:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/21/25, 9:17 AM<br>下一次刷新：2/22/25, 9:17 AM</p>
