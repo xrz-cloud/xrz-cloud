@@ -64,7 +64,7 @@
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/wangfenjin/simple>wangfenjin/simple</a><span> 支持中文和拼音的 SQLite fts5 全文搜索扩展 ｜ A SQLite3 fts5 tokenizer which supports Chinese and PinYin</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/open-ani/animeko>open-ani/animeko</a><span> 集找番、追番、看番的一站式弹幕追番平台，Bangumi 同步，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform</span></li><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</span></li></ul>
+<ul><li><a href=https://github.com/wangfenjin/simple>wangfenjin/simple</a><span> 支持中文和拼音的 SQLite fts5 全文搜索扩展 ｜ A SQLite3 fts5 tokenizer which supports Chinese and PinYin</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><span> 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</span></li><li><a href=https://github.com/bili-vd-bak/L1>bili-vd-bak/L1</a><span> A tool to parse the title of bangumi etc. Its name and function logic originate from L1(LabelFirstTitleParser) of open-ani/ani.</span></li><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/28/25, 9:19 AM<br>下一次刷新：3/1/25, 9:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/1/25, 9:24 AM<br>下一次刷新：3/2/25, 9:24 AM</p>
