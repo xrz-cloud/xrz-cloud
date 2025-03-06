@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><span> 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</span></li><li><a href=https://github.com/linwoodpendleton/nginx_proxy_conf>linwoodpendleton/nginx_proxy_conf</a><span> nginx任意反向代理配置(支持github,ip138,google)</span></li><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><span> ( ｀д′) how many followers do i have? how many!</span></li><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li></ul>
+<ul><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><span> 📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/ccbikai/Sink>ccbikai/Sink</a><span> ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</span></li><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/5/25, 9:20 AM<br>下一次刷新：3/6/25, 9:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/6/25, 9:20 AM<br>下一次刷新：3/7/25, 9:20 AM</p>
