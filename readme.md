@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/LeafYeeXYZ/MailBox>LeafYeeXYZ/MailBox</a><span> Serverless, free and custom domain email server using Cloudflare Mail Workers for receiving and Resend for sending / 零成本、无服务器、自定义域名邮件收发服务, 基于 Cloudflare Mail Workers (收) 和 Resend (发)</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/linwoodpendleton/nginx_proxy_conf>linwoodpendleton/nginx_proxy_conf</a><span> nginx任意反向代理配置(支持github,ip138,google)</span></li><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li></ul>
+<ul><li><a href=https://github.com/LeafYeeXYZ/MailBox>LeafYeeXYZ/MailBox</a><span> Serverless, free and custom domain email server using Cloudflare Mail Workers for receiving and Resend for sending / 零成本、无服务器、自定义域名邮件收发服务, 基于 Cloudflare Mail Workers (收) 和 Resend (发)</span></li><li><a href=https://github.com/Akimio521/AutoFilm>Akimio521/AutoFilm</a><span> 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目，推荐配合MediaWarp使用</span></li><li><a href=https://github.com/bili-vd-bak/L1>bili-vd-bak/L1</a><span> A tool to parse the title of bangumi etc. Its name and function logic originate from L1(LabelFirstTitleParser) of open-ani/ani.</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/ModuleList/akashaProxy>ModuleList/akashaProxy</a><span> better transparent proxy module (based clash)</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/9/25, 9:10 AM<br>下一次刷新：3/10/25, 9:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/10/25, 9:08 AM<br>下一次刷新：3/11/25, 9:08 AM</p>
