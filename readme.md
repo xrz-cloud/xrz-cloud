@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/open-ani/animeko>open-ani/animeko</a><span> 集找番、追番、看番的一站式弹幕追番平台，Bangumi 同步，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform</span></li><li><a href=https://github.com/ModuleList/akashaProxy>ModuleList/akashaProxy</a><span> better transparent proxy module (based clash)</span></li></ul>
+<ul><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li><li><a href=https://github.com/ModuleList/akashaProxy>ModuleList/akashaProxy</a><span> better transparent proxy module (based clash)</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><span> 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/13/25, 9:21 AM<br>下一次刷新：3/14/25, 9:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/14/25, 9:19 AM<br>下一次刷新：3/15/25, 9:19 AM</p>
