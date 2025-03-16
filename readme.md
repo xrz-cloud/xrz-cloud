@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/kiwibrowser/src.next>kiwibrowser/src.next</a><span> Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium</span></li><li><a href=https://github.com/linwoodpendleton/nginx_proxy_conf>linwoodpendleton/nginx_proxy_conf</a><span> nginx任意反向代理配置(支持github,ip138,google)</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/brenoepics/vitepress-carbon>brenoepics/vitepress-carbon</a><span> Streamlined Theme for VitePress</span></li></ul>
+<ul><li><a href=https://github.com/brenoepics/vitepress-carbon>brenoepics/vitepress-carbon</a><span> Streamlined Theme for VitePress</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful docs framework with Next.js.</span></li><li><a href=https://github.com/linwoodpendleton/nginx_proxy_conf>linwoodpendleton/nginx_proxy_conf</a><span> nginx任意反向代理配置(支持github,ip138,google)</span></li><li><a href=https://github.com/ccbikai/Sink>ccbikai/Sink</a><span> ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</span></li><li><a href=https://github.com/bpking1/embyExternalUrl>bpking1/embyExternalUrl</a><span> some emby/jellyfin scripts</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/15/25, 9:19 AM<br>下一次刷新：3/16/25, 9:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/16/25, 9:26 AM<br>下一次刷新：3/17/25, 9:26 AM</p>
