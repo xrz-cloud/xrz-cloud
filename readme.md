@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ccbikai/Sink>ccbikai/Sink</a><span> ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</span></li><li><a href=https://github.com/bili-vd-bak/L1>bili-vd-bak/L1</a><span> A tool to parse the title of bangumi etc. Its name and function logic originate from L1(LabelFirstTitleParser) of open-ani/ani.</span></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><span> :zap: Dynamically generated stats for your github readmes</span></li><li><a href=https://github.com/kiwibrowser/src.next>kiwibrowser/src.next</a><span> Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium</span></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li></ul>
+<ul><li><a href=https://github.com/open-ani/animeko>open-ani/animeko</a><span> 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform</span></li><li><a href=https://github.com/ModuleList/akashaProxy>ModuleList/akashaProxy</a><span> better transparent proxy module (based clash)</span></li><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/DaoCloud/public-image-mirror>DaoCloud/public-image-mirror</a><span> 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/5/25, 9:21 AM<br>下一次刷新：4/6/25, 9:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/6/25, 9:27 AM<br>下一次刷新：4/7/25, 9:27 AM</p>
