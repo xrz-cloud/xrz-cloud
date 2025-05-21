@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Akimio521/AutoFilm>Akimio521/AutoFilm</a><span> 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目，推荐配合MediaWarp使用</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful docs framework with Next.js.</span></li><li><a href=https://github.com/DaoCloud/public-image-mirror>DaoCloud/public-image-mirror</a><span> 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</span></li><li><a href=https://github.com/brenoepics/vitepress-carbon>brenoepics/vitepress-carbon</a><span> Streamlined Theme for VitePress</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li></ul>
+<ul><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li><li><a href=https://github.com/Akimio521/AutoFilm>Akimio521/AutoFilm</a><span> 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目，推荐配合MediaWarp使用</span></li><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful docs framework with Next.js.</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/20/25, 9:37 AM<br>下一次刷新：5/21/25, 9:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/21/25, 9:37 AM<br>下一次刷新：5/22/25, 9:37 AM</p>
