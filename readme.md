@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><span> 📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful docs framework with Next.js.</span></li><li><a href=https://github.com/brenoepics/vitepress-carbon>brenoepics/vitepress-carbon</a><span> Streamlined Theme for VitePress</span></li></ul>
+<ul><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</span></li><li><a href=https://github.com/akashaProxy/akashaProxy>akashaProxy/akashaProxy</a><span> better transparent proxy module (based clash)</span></li><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/wangfenjin/simple>wangfenjin/simple</a><span> 支持中文和拼音的 SQLite fts5 全文搜索扩展 ｜ A SQLite3 fts5 tokenizer which supports Chinese and PinYin</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/1/25, 9:53 AM<br>下一次刷新：6/2/25, 9:53 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/2/25, 9:42 AM<br>下一次刷新：6/3/25, 9:42 AM</p>
