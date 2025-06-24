@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Akimio521/AutoFilm>Akimio521/AutoFilm</a><span> 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目，推荐配合MediaWarp使用</span></li><li><a href=https://github.com/wangfenjin/simple>wangfenjin/simple</a><span> 支持中文和拼音的 SQLite fts5 全文搜索扩展 ｜ A SQLite3 fts5 tokenizer which supports Chinese and PinYin</span></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/DaoCloud/public-image-mirror>DaoCloud/public-image-mirror</a><span> 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</span></li><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li></ul>
+<ul><li><a href=https://github.com/akashaProxy/akashaProxy>akashaProxy/akashaProxy</a><span> better transparent proxy module (based clash)</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><span> 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/DaoCloud/public-image-mirror>DaoCloud/public-image-mirror</a><span> 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</span></li><li><a href=https://github.com/open-ani/animeko>open-ani/animeko</a><span> 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/23/25, 9:45 AM<br>下一次刷新：6/24/25, 9:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/24/25, 9:40 AM<br>下一次刷新：6/25/25, 9:40 AM</p>
