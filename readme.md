@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/bilibili/bas>bilibili/bas</a><span> Bilibili Animation Script</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation</span></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/brenoepics/vitepress-carbon>brenoepics/vitepress-carbon</a><span> Streamlined Theme for VitePress</span></li></ul>
+<ul><li><a href=https://github.com/Akimio521/AutoFilm>Akimio521/AutoFilm</a><span> 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目，推荐配合MediaWarp使用</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful docs framework with Next.js.</span></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation</span></li><li><a href=https://github.com/DaoCloud/public-image-mirror>DaoCloud/public-image-mirror</a><span> 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</span></li><li><a href=https://github.com/ccbikai/Sink>ccbikai/Sink</a><span> ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/5/25, 9:36 AM<br>下一次刷新：7/6/25, 9:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/6/25, 9:48 AM<br>下一次刷新：7/7/25, 9:48 AM</p>
