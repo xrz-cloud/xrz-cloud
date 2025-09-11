@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/bilibili/bas>bilibili/bas</a><span> Bilibili Animation Script</span></li><li><a href=https://github.com/brenoepics/vitepress-carbon>brenoepics/vitepress-carbon</a><span> Streamlined Theme for VitePress</span></li><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li></ul>
+<ul><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/bilibili/bas>bilibili/bas</a><span> Bilibili Animation Script</span></li><li><a href=https://github.com/yjl9903/bgmc>yjl9903/bgmc</a><span> Bangumi Data / API Clients</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/10/25, 9:21 AM<br>下一次刷新：9/11/25, 9:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/11/25, 9:23 AM<br>下一次刷新：9/12/25, 9:23 AM</p>
