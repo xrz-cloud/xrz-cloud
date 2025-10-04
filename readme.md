@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/AkimioJR/AutoFilm>AkimioJR/AutoFilm</a><span> 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li><li><a href=https://github.com/beilunyang/moepush>beilunyang/moepush</a><span> 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨</span></li><li><a href=https://github.com/DaoCloud/public-image-mirror>DaoCloud/public-image-mirror</a><span> 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</span></li><li><a href=https://github.com/bpking1/embyExternalUrl>bpking1/embyExternalUrl</a><span> some emby/jellyfin scripts</span></li></ul>
+<ul><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/nvbn/thefuck>nvbn/thefuck</a><span> Magnificent app which corrects your previous console command.</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/RunRunxka/Ace5-Pro-Sukisu>RunRunxka/Ace5-Pro-Sukisu</a><span> 内核构建</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/3/25, 9:20 AM<br>下一次刷新：10/4/25, 9:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/4/25, 9:18 AM<br>下一次刷新：10/5/25, 9:18 AM</p>
