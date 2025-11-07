@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/LeafYeeXYZ/MailBox>LeafYeeXYZ/MailBox</a><span> Serverless, free and custom domain email server using Cloudflare Mail Workers for receiving and Resend for sending / 零成本、无服务器、自定义域名邮件收发服务, 基于 Cloudflare Mail Workers (收) 和 Resend (发)</span></li><li><a href=https://github.com/ani-uni/danuni>ani-uni/danuni</a></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li></ul>
+<ul><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li><li><a href=https://github.com/kiwibrowser/src.next>kiwibrowser/src.next</a><span> Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium</span></li><li><a href=https://github.com/RunRunxka/Ace5-Pro-Sukisu>RunRunxka/Ace5-Pro-Sukisu</a><span> 内核构建</span></li><li><a href=https://github.com/EcoPasteHub/EcoPaste>EcoPasteHub/EcoPaste</a><span> 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/6/25, 9:36 AM<br>下一次刷新：11/7/25, 9:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/7/25, 9:28 AM<br>下一次刷新：11/8/25, 9:28 AM</p>
