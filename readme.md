@@ -72,11 +72,11 @@
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/journey-ad/bilibili-API-collect>journey-ad/bilibili-API-collect</a><span> 哔哩哔哩-API收集整理【不断更新中....】</span></li><li><a href=https://github.com/abusoww/tuxmate>abusoww/tuxmate</a><span> THE MISSING BULK APP INSTALLER FOR LINUX</span></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><span> 基于RSS自动追番、订阅、下载、刮削</span></li><li><a href=https://github.com/JStone2934/LiveGalGame>JStone2934/LiveGalGame</a><span> 修复了现实世界里和异性对话没有选择项的 Bug</span></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</span></li></ul>
+<ul><li><a href=https://github.com/abusoww/tuxmate>abusoww/tuxmate</a><span> THE MISSING BULK APP INSTALLER FOR LINUX</span></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><span> 基于RSS自动追番、订阅、下载、刮削</span></li><li><a href=https://github.com/JStone2934/LiveGalGame>JStone2934/LiveGalGame</a><span> 修复了现实世界里和异性对话没有选择项的 Bug</span></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><span> 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现</span></li><li><a href=https://github.com/RunRunxka/Ace5-Pro-Sukisu>RunRunxka/Ace5-Pro-Sukisu</a><span> 内核构建</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li></ul>
+<ul><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li><li><a href=https://github.com/kiwibrowser/src.next>kiwibrowser/src.next</a><span> Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium</span></li><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/30/26, 10:02 AM<br>下一次刷新：1/31/26, 10:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/31/26, 9:58 AM<br>下一次刷新：2/1/26, 9:58 AM</p>
