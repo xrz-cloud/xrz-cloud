@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/kiwibrowser/src.next>kiwibrowser/src.next</a><span> Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/nvbn/thefuck>nvbn/thefuck</a><span> Magnificent app which corrects your previous console command.</span></li><li><a href=https://github.com/marcomq/tauri-plugin-python>marcomq/tauri-plugin-python</a><span> Tauri plugin to run python code in the backend instead of rust</span></li><li><a href=https://github.com/beilunyang/moepush>beilunyang/moepush</a><span> 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨</span></li></ul>
+<ul><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li><li><a href=https://github.com/nvbn/thefuck>nvbn/thefuck</a><span> Magnificent app which corrects your previous console command.</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/6/26, 10:05 AM<br>下一次刷新：2/7/26, 10:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/7/26, 10:00 AM<br>下一次刷新：2/8/26, 10:00 AM</p>
