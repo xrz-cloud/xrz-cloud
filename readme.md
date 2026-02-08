@@ -72,11 +72,11 @@
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/abusoww/tuxmate>abusoww/tuxmate</a><span> THE MISSING BULK APP INSTALLER FOR LINUX</span></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><span> 基于RSS自动追番、订阅、下载、刮削</span></li><li><a href=https://github.com/JStone2934/LiveGalGame>JStone2934/LiveGalGame</a><span> 修复了现实世界里和异性对话没有选择项的 Bug</span></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li></ul>
+<ul><li><a href=https://github.com/abusoww/tuxmate>abusoww/tuxmate</a><span> THE MISSING BULK APP INSTALLER FOR LINUX</span></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><span> 基于RSS自动追番、订阅、下载、刮削</span></li><li><a href=https://github.com/Live-GalGame/LiveGalGame>Live-GalGame/LiveGalGame</a><span> 修复了现实世界里和异性对话没有选择项的 Bug</span></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li><li><a href=https://github.com/nvbn/thefuck>nvbn/thefuck</a><span> Magnificent app which corrects your previous console command.</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li></ul>
+<ul><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/LeafYeeXYZ/MailBox>LeafYeeXYZ/MailBox</a><span> Serverless, free and custom domain email server using Cloudflare Mail Workers for receiving and Resend for sending / 零成本、无服务器、自定义域名邮件收发服务, 基于 Cloudflare Mail Workers (收) 和 Resend (发)</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/7/26, 10:00 AM<br>下一次刷新：2/8/26, 10:00 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/8/26, 10:33 AM<br>下一次刷新：2/9/26, 10:33 AM</p>
