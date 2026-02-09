@@ -64,7 +64,7 @@
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/LeafYeeXYZ/MailBox>LeafYeeXYZ/MailBox</a><span> Serverless, free and custom domain email server using Cloudflare Mail Workers for receiving and Resend for sending / 零成本、无服务器、自定义域名邮件收发服务, 基于 Cloudflare Mail Workers (收) 和 Resend (发)</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li></ul>
+<ul><li><a href=https://github.com/pytauri/pytauri>pytauri/pytauri</a><span> Tauri binding for Python through Pyo3</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li><li><a href=https://github.com/bilibili/bas>bilibili/bas</a><span> Bilibili Animation Script</span></li><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/8/26, 10:33 AM<br>下一次刷新：2/9/26, 10:33 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/9/26, 10:12 AM<br>下一次刷新：2/10/26, 10:12 AM</p>
