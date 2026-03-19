@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/bilibili/bas>bilibili/bas</a><span> Bilibili Animation Script</span></li><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/kiwibrowser/src.next>kiwibrowser/src.next</a><span> Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium</span></li></ul>
+<ul><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li><li><a href=https://github.com/nvbn/thefuck>nvbn/thefuck</a><span> Magnificent app which corrects your previous console command.</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/ani-uni/danuni>ani-uni/danuni</a></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/18/26, 10:11 AM<br>下一次刷新：3/19/26, 10:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/19/26, 10:12 AM<br>下一次刷新：3/20/26, 10:12 AM</p>
