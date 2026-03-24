@@ -64,7 +64,7 @@
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/HengXin666/BiLiBiLi_DanMu_Crawling>HengXin666/BiLiBiLi_DanMu_Crawling</a><span> 爬取B站历史弹幕/全弹幕, 支持高级弹幕, Bas弹幕爬取. [2025年]可用; 内部爬取算法可以在 最优最少 请求次数下爬取弹幕, 并且 不会 丢失任何弹幕. 支持多任务管理、支持弹幕处理(格式转换/合并重复弹幕等)；可Docker一键部署.</span></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/pytauri/pytauri>pytauri/pytauri</a><span> Tauri binding for Python through Pyo3</span></li><li><a href=https://github.com/ani-uni/danuni>ani-uni/danuni</a></li></ul>
+<ul><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/bilibili/bas>bilibili/bas</a><span> Bilibili Animation Script</span></li><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/23/26, 10:21 AM<br>下一次刷新：3/24/26, 10:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/24/26, 10:06 AM<br>下一次刷新：3/25/26, 10:06 AM</p>
