@@ -64,7 +64,7 @@
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/yjl9903/bgmx>yjl9903/bgmx</a><span> Bangumi API Clients</span></li></ul>
+<ul><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock</span></li><li><a href=https://github.com/RunRunxka/Ace5-Pro-Sukisu>RunRunxka/Ace5-Pro-Sukisu</a><span> 内核构建</span></li><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li><li><a href=https://github.com/kiwibrowser/src.next>kiwibrowser/src.next</a><span> Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/5/26, 10:44 AM<br>下一次刷新：5/6/26, 10:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/6/26, 10:50 AM<br>下一次刷新：5/7/26, 10:50 AM</p>
