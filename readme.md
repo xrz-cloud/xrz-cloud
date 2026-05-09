@@ -72,11 +72,11 @@
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/abusoww/tuxmate>abusoww/tuxmate</a><span> THE MISSING BULK APP INSTALLER FOR LINUX</span></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><span> 基于RSS自动追番、订阅、下载、刮削、洗版</span></li><li><a href=https://github.com/Live-GalGame/LiveGalGame>Live-GalGame/LiveGalGame</a><span> 修复了现实世界里和异性对话没有选择项的 Bug</span></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li></ul>
+<ul><li><a href=https://github.com/abusoww/tuxmate>abusoww/tuxmate</a><span> THE MISSING BULK APP INSTALLER FOR LINUX</span></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><span> 基于RSS自动追番、订阅、下载、刮削、洗版</span></li><li><a href=https://github.com/Live-GalGame/LiveGalGame>Live-GalGame/LiveGalGame</a><span> 修复了现实世界里和异性对话没有选择项的 Bug</span></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ani-uni/danuni>ani-uni/danuni</a></li><li><a href=https://github.com/RunRunxka/Ace5-Pro-Sukisu>RunRunxka/Ace5-Pro-Sukisu</a><span> 内核构建</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li></ul>
+<ul><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/LeafYeeXYZ/MailBox>LeafYeeXYZ/MailBox</a><span> Serverless, free and custom domain email server using Cloudflare Mail Workers for receiving and Resend for sending / 零成本、无服务器、自定义域名邮件收发服务, 基于 Cloudflare Mail Workers (收) 和 Resend (发)</span></li><li><a href=https://github.com/nvbn/thefuck>nvbn/thefuck</a><span> Magnificent app which corrects your previous console command.</span></li><li><a href=https://github.com/yjl9903/bgmx>yjl9903/bgmx</a><span> Bangumi API Clients</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/8/26, 10:54 AM<br>下一次刷新：5/9/26, 10:54 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/9/26, 10:49 AM<br>下一次刷新：5/10/26, 10:49 AM</p>
