@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/nvbn/thefuck>nvbn/thefuck</a><span> Magnificent app which corrects your previous console command.</span></li><li><a href=https://github.com/beilunyang/moepush>beilunyang/moepush</a><span> 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨</span></li><li><a href=https://github.com/yjl9903/bgmx>yjl9903/bgmx</a><span> Bangumi EX for Anime Garden</span></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li></ul>
+<ul><li><a href=https://github.com/marcomq/tauri-plugin-python>marcomq/tauri-plugin-python</a><span> Tauri plugin to run python code in the backend instead of rust</span></li><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/pytauri/pytauri>pytauri/pytauri</a><span> Tauri binding for Python through Pyo3</span></li><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/13/26, 10:46 AM<br>下一次刷新：7/14/26, 10:46 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/14/26, 10:28 AM<br>下一次刷新：7/15/26, 10:28 AM</p>
