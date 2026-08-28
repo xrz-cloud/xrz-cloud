@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/marcomq/tauri-plugin-python>marcomq/tauri-plugin-python</a><span> Tauri plugin to run python code in the backend instead of rust</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/ani-uni/danuni>ani-uni/danuni</a></li><li><a href=https://github.com/bilibili/bas>bilibili/bas</a><span> Bilibili Animation Script</span></li><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li></ul>
+<ul><li><a href=https://github.com/weirui88888/text2image-gui>weirui88888/text2image-gui</a><span> 一款由文字生成图片的可视化交互网站（非AIGC）</span></li><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/ani-uni/danuni>ani-uni/danuni</a></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/27/26, 3:47 PM<br>下一次刷新：8/28/26, 3:47 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/28/26, 5:51 PM<br>下一次刷新：8/29/26, 5:51 PM</p>
