@@ -64,7 +64,7 @@
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/xrz-cloud/KernelSU_Action_k305G_picasso_new target=_blank><b>xrz-cloud/KernelSU_Action_k305G_picasso_new</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/xrz-cloud/KernelSU_Action_k305G_picasso_new?style=flat-square&labelColor=343b41"></td><td>5/19/2023</td><td>12/3/2023</td></tr><tr><td><a href=https://github.com/bili-vd-bak/L1 target=_blank><b>bili-vd-bak/L1</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/bili-vd-bak/L1?style=flat-square&labelColor=343b41"></td><td>7/30/2024</td><td>8/15/2024</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> Programmer's guide about how to cook at home.</span></li><li><a href=https://github.com/LeafYeeXYZ/MailBox>LeafYeeXYZ/MailBox</a><span> Serverless, free and custom domain email server using Cloudflare Mail Workers for receiving and Resend for sending / 零成本、无服务器、自定义域名邮件收发服务, 基于 Cloudflare Mail Workers (收) 和 Resend (发)</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li></ul>
+<ul><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/pytauri/pytauri>pytauri/pytauri</a><span> Tauri binding for Python through Pyo3</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/7/26, 11:10 AM<br>下一次刷新：9/8/26, 11:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/8/26, 11:18 AM<br>下一次刷新：9/9/26, 11:18 AM</p>
