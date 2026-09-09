@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/pytauri/pytauri>pytauri/pytauri</a><span> Tauri binding for Python through Pyo3</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li></ul>
+<ul><li><a href=https://github.com/DaoCloud/public-image-mirror>DaoCloud/public-image-mirror</a><span> 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</span></li><li><a href=https://github.com/EcoPasteHub/EcoPaste>EcoPasteHub/EcoPaste</a><span> 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/8/26, 11:18 AM<br>下一次刷新：9/9/26, 11:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/9/26, 11:21 AM<br>下一次刷新：9/10/26, 11:21 AM</p>
