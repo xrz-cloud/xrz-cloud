@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/Zebeqo/Bangumi>Zebeqo/Bangumi</a><span> 一个 Bangumi 番组计划 web 客户端</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/marcomq/tauri-plugin-python>marcomq/tauri-plugin-python</a><span> Tauri plugin to run python code in the backend instead of rust</span></li></ul>
+<ul><li><a href=https://github.com/bili-vd-bak/aniclip>bili-vd-bak/aniclip</a><span> 番剧删减汇总(程序部分)</span></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> Programmer's guide about how to cook at home.</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/12/26, 11:21 AM<br>下一次刷新：9/13/26, 11:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/13/26, 11:27 AM<br>下一次刷新：9/14/26, 11:27 AM</p>
