@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li><li><a href=https://github.com/marcomq/tauri-plugin-python>marcomq/tauri-plugin-python</a><span> Tauri plugin to run python code in the backend instead of rust</span></li><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li><li><a href=https://github.com/fuma-nama/fumadocs>fuma-nama/fumadocs</a><span> The beautiful & flexible React.js docs framework.</span></li><li><a href=https://github.com/EcoPasteHub/EcoPaste>EcoPasteHub/EcoPaste</a><span> 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool</span></li></ul>
+<ul><li><a href=https://github.com/RunRunxka/Ace5-Pro-Sukisu>RunRunxka/Ace5-Pro-Sukisu</a><span> 内核构建</span></li><li><a href=https://github.com/bangumi-data/bangumi-data>bangumi-data/bangumi-data</a><span> Raw data for Japanese Anime</span></li><li><a href=https://github.com/ZWolken/Light-Novel-Yuedu-Source>ZWolken/Light-Novel-Yuedu-Source</a><span> 轻小说阅读书源合集 輕小説閲讀書源合集</span></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><span> Programmer's guide about how to cook at home.</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/20/26, 11:40 AM<br>下一次刷新：9/21/26, 11:40 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/21/26, 11:35 AM<br>下一次刷新：9/22/26, 11:35 AM</p>
