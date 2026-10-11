@@ -76,7 +76,7 @@
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><span> 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</span></li><li><a href=https://github.com/EcoPasteHub/EcoPaste>EcoPasteHub/EcoPaste</a><span> 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool</span></li><li><a href=https://github.com/SakuraLLM/SakuraLLM>SakuraLLM/SakuraLLM</a><span> 适配轻小说/Galgame的日中翻译大模型</span></li><li><a href=https://github.com/beilunyang/moepush>beilunyang/moepush</a><span> 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨</span></li></ul>
+<ul><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><span> 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock</span></li><li><a href=https://github.com/wheaney/XRLinuxDriver>wheaney/XRLinuxDriver</a><span> Linux service for interacting with XR devices</span></li><li><a href=https://github.com/marcomq/tauri-plugin-python>marcomq/tauri-plugin-python</a><span> Tauri plugin to run python code in the backend instead of rust</span></li><li><a href=https://github.com/EasyTier/luci-app-easytier>EasyTier/luci-app-easytier</a><span> OpenWrt里的EasyTier安装包（IPK和APK）</span></li><li><a href=https://github.com/EcoPasteHub/EcoPaste>EcoPasteHub/EcoPaste</a><span> 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool</span></li></ul>
 
 **Can you find me?**
 
@@ -85,4 +85,4 @@
 ---
 
 <p align=center><strong>...</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/10/26, 12:34 PM<br>下一次刷新：10/11/26, 12:34 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/11/26, 12:18 PM<br>下一次刷新：10/12/26, 12:18 PM</p>
